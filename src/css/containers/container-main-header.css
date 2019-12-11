@@ -1,0 +1,10 @@
+/*um container tem a responsabilidade de juntar os
+componentes além de posicionar e definir o tamanho, 
+espaçamentos e posicionamento deles no contexto do
+container.*/
+
+.container-main-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
