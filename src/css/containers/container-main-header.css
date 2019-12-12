@@ -9,6 +9,6 @@ container.*/
   justify-content: space-between;
 }
 
-.container-main-header .main-logo {
+.container-main-header > .main-logo {
   font-size: 20px;
 }

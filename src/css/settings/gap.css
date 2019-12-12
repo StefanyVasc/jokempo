@@ -1,0 +1,7 @@
+/*esse arquivo terá variáveis com os espaços (respiros,
+termo mais usado pelos designers) entre os elementos do 
+nosso layout.*/
+
+:root {
+  --gap-small: 22px;
+}
