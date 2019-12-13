@@ -6,3 +6,11 @@
   background-color: var(--color-second);
   border-radius: 4px;
 }
+
+.primary-button.-dark {
+  color: var(--color-base);
+  font-family: "Bitter", serif;
+  font-weight: bold;
+  /*pfont-weight ja foi definido na classe primária,
+  então nao é necessário definir novamente*/
+}
