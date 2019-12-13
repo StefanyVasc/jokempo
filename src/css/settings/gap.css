@@ -3,5 +3,7 @@ termo mais usado pelos designers) entre os elementos do
 nosso layout.*/
 
 :root {
+  --gap-smaller: 15px;
   --gap-small: 22px;
+  --gap-medium: 30px;
 }

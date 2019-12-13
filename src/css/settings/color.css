@@ -1,7 +1,7 @@
 /*todas as variáveis ficam dentro da pasta settings
 variáveis globais e configurações*/
 :root {
-  --color-primary: #ecd16f;
+  --color-base: #333333;
+  --color-primary: #f5e29b;
   --color-second: #fff;
-  font-family: "Bitter", serif;
 }
